@@ -1,6 +1,6 @@
 # Sobre este Proyecto
 
-Este es el código fuente de un sitio web personal creado por Sared García como su portafolio en línea. El sitio incluye secciones como "Sobre Mí", "Habilidades", "Formación" y "Proyectos", con enlaces directos a demostraciones y repositorios de GitHub. Utiliza HTML, CSS, JavaScript y la biblioteca AOS para animaciones.
+Este es el código fuente de un sitio web personal creado por Sared García como su portafolio en línea. El sitio incluye secciones como "Sobre Mí", "Habilidades", "Formación" y "Proyectos", con enlaces directos a demostraciones y repositorios de GitHub. Utiliza HTML, CSS, JavaScript.
 
 ## Sobre Mí
 
